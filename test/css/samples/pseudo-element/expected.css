@@ -1,0 +1,1 @@
+span.Atletik-xyz::after{content:'i am a pseudo-element'}span.Atletik-xyz:first-child{color:red}span.Atletik-xyz:last-child::after{color:blue}

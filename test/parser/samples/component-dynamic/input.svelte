@@ -1,0 +1,1 @@
+<Atletik:component this="{foo ? Foo : Bar}"></Atletik:component>

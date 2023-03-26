@@ -1,0 +1,10 @@
+{
+	"code": "invalid-tag-name",
+	"message": "Valid <Atletik:...> tag names are Atletik:head, Atletik:options, Atletik:window, Atletik:document, Atletik:body, Atletik:self, Atletik:component, Atletik:fragment or Atletik:element",
+	"pos": 10,
+	"start": {
+		"character": 10,
+		"line": 2,
+		"column": 2
+	}
+}

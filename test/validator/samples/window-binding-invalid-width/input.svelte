@@ -1,0 +1,1 @@
+<Atletik:window bind:width={w}/>

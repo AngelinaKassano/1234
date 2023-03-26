@@ -1,0 +1,1 @@
+<Atletik:window bind:innerWidth={foo.bar.baz}/>
